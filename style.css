@@ -397,6 +397,12 @@ span {
   color: mediumvioletred;
 }
 
+.projects a:hover{
+    border-bottom: 1px solid white;
+    transform: translate(50);
+    transition: all ease-in 1s;
+}
+
 .card:hover {
   box-shadow: 10px 10px 5px 10px grey;
   opacity: 1;
